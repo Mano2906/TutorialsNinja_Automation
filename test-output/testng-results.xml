@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-20T17:23:49 IST" name="Default suite" finished-at="2024-11-20T17:24:27 IST" duration-ms="38154">
+    <groups>
+    </groups>
+    <test started-at="2024-11-20T17:23:49 IST" name="Default test" finished-at="2024-11-20T17:24:27 IST" duration-ms="38154">
+      <class name="Test.SearchTC">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.SearchTC@7188af83]" started-at="2024-11-20T17:23:49 IST" name="setup" finished-at="2024-11-20T17:23:52 IST" duration-ms="2971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchTest()[pri:0, instance:Test.SearchTC@7188af83]" started-at="2024-11-20T17:23:52 IST" name="searchTest" finished-at="2024-11-20T17:24:27 IST" duration-ms="34851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Test.SearchTC@7188af83]" started-at="2024-11-20T17:24:27 IST" name="teardown" finished-at="2024-11-20T17:24:27 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Test.SearchTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
